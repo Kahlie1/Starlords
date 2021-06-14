@@ -4,6 +4,8 @@ Java Desktop Application that allows the user to find movies, events, and restau
 
 # Screenshots
 
+### Login Screen
+
 <img src="Screenshots/LogIn.PNG" vspace="5"   align= "left" height="500" width="600">
 <img src="/Screenshots/SignUp.PNG" vspace="5"   align= "left" height="500" width="600">
 <img src="/Screenshots/Home.PNG" vspace="5"   align= "left" height="500" width="600">
