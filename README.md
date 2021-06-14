@@ -4,11 +4,11 @@ Java Desktop Application that allows the user to find movies, events, and restau
 
 # Screenshots
 
-<img src="/screenshots/LogIn.png" vspace="5"   align= "left" height="300" width="175">
-<img src="/screenshots/SignUp.png" vspace="5"   align= "left" height="300" width="175">
-<img src="/screenshots/Home.png" vspace="5"   align= "left" height="300" width="175">
-<img src="/screenshots/Account.png" vspace="5"   align= "left" height="300" width="175">
-<img src="/screenshots/CuisineSearch.png" vspace="5"   align= "left" height="300" width="175">
-<img src="/screenshots/MovieSearch.png" vspace="5"   align= "left" height="300" width="175">
-<img src="/screenshots/MovieResult.png" vspace="5"   align= "left" height="300" width="175">
-<img src="/screenshots/Events.png" vspace="5"   align= "left" height="300" width="175">
+<img src="/Screenshots/LogIn.png" vspace="5"   align= "left" height="300" width="175">
+<img src="/Screenshots/SignUp.png" vspace="5"   align= "left" height="300" width="175">
+<img src="/Screenshots/Home.png" vspace="5"   align= "left" height="300" width="175">
+<img src="/Screenshots/Account.png" vspace="5"   align= "left" height="300" width="175">
+<img src="/Screenshots/CuisineSearch.png" vspace="5"   align= "left" height="300" width="175">
+<img src="/Screenshots/MovieSearch.png" vspace="5"   align= "left" height="300" width="175">
+<img src="/Screenshots/MovieResult.png" vspace="5"   align= "left" height="300" width="175">
+<img src="/Screenshots/Events.png" vspace="5"   align= "left" height="300" width="175">
